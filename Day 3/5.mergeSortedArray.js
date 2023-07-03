@@ -28,7 +28,7 @@
 // }
 /* 
 process:
-  i = m means index num1 start from the length of num 1
+  i = m means index num1 start from the lengdth of num 1
   j = 0 means start from 0, to retrieve the num2 and insert to num1
   j<n = means ensures that the elements of nums2 will only be used during iterations as long as nums2 is
   then nums1[i] = nums2[j] means that elemant in nums 2 is insert to nums1
