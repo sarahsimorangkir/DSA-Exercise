@@ -24,8 +24,18 @@ plusMinus([-4, 3, -9, 0, 4, 1]);
 plusMinus([1, 1, 0, -1, -1]);
 plusMinus([1, -2, -7, 9, 1, -8, -5])
 
-/* Expected output:
+/* 
+Sample Input
 
+STDIN           Function
+-----           --------
+6               arr[] size n = 6
+-4 3 -9 0 4 1   arr = [-4, 3, -9, 0, 4, 1]
 
+Sample Output
+
+0.500000
+0.333333
+0.166667
 
 */

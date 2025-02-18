@@ -11,3 +11,4 @@ function fizzBuzzs(n: number): void {
     }
   }
 }
+
